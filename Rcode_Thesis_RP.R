@@ -255,26 +255,6 @@ sd_random_int <- mcmc_plot(RS1, pars = c("sd_User__I", "sd_Word__I"), type="hist
 
 
 
-sd_user_plot1 <- mcmc_plot(RS1, pars = c('sd_User__P', 'sd_User__C', 'sd_User__D', 'sd_User__W'), type="hist")
-sd_user_plot2 <- mcmc_plot(RS1, pars = c("sd_User__Task_Format1"), type="hist")
-sd_user_plot3 <- mcmc_plot(RS1, pars = c("sd_User__Task_Format2"), type="hist")
-sd_user_plot4 <- mcmc_plot(RS1, pars = c("sd_User__Task_Format1:PoS1", "sd_User__Task_Format2:PoS1",
-                                         "sd_User__Task_Format1:PoS2", "sd_User__Task_Format2:PoS2", 
-                                         "sd_User__Task_Format1:PoS3", "sd_User__Task_Format2:PoS3",
-                                         "sd_User__Task_Format1:PoS4", "sd_User__Task_Format2:PoS4"), type="hist")
-
-
-sd_user_plot5 <- mcmc_plot(RS1, pars = c("sd_User__Task_Format1:PoS5", "sd_User__Task_Format2:PoS5",
-                                         "sd_User__Task_Format1:C", "sd_User__Task_Format2:C",
-                                         "sd_User__Task_Format1:D", "sd_User__Task_Format2:D", 
-                                         "sd_User__Task_Format1:W", "sd_User__Task_Format2:W"), type="hist")
-
-
-
-sd_rs_maineffects <- mcmc_plot(RS1, pars = c("sd_User__I", "sd_Word__I",
-                                             'sd_User__P', 'sd_User__C', 'sd_User__D', 'sd_User__W'), type="hist")
-
-
 
 
 
