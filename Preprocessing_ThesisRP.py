@@ -2,8 +2,9 @@
 # coding: utf-8
 
 # Input Duolingo datafiles from (Settles, Burr, 2018, "Data for the 2018 Duolingo Shared Task on Second Language 
-## Acquisition Modeling (SLAM)", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4)
-## Brysbaert Concreteness scores, Subtlex_En and Subtlex_Esp from:
+#  Acquisition Modeling (SLAM)", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4)
+
+# Brysbaert Concreteness scores, Subtlex_En and Subtlex_Esp from:
 # (Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand  
 # generally known English word lemmas. Behavior Research Methods, 46, 991-997.)
 # (Brysbaert, M., Mandera, P., & Keuleers, E. (2018). The Word Frequency Effect in Word Processing: 
